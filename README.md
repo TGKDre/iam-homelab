@@ -24,6 +24,21 @@ A production-style Identity and Access Management (IAM) lab built on Oracle Clou
 - **Custom Scope Mapping** — Gitea receives group membership claims via a custom property mapping
 - **Self-hosted on OCI** — Deployed on Oracle Cloud Free Tier with network-level security via Security Lists and iptables
 
+## 📸 Screenshots
+
+### Authentik Admin Dashboard
+![Authentik Dashboard](docs/images/authentik-dashboard.png) <img width="1920" height="971" alt="Authentik Dashboard Screenshot" src="https://github.com/user-attachments/assets/ea014772-0279-4280-9e05-083e1bb7b43c" />
+
+### Gitea SSO Login
+![Gitea SSO Login](docs/images/gitea-sso-login.png) <img width="2560" height="1355" alt="Gitea Login Page" src="https://github.com/user-attachments/assets/ca95f73a-5463-4604-818c-2356f2c98816" />
+
+
+### MFA Enforcement
+![MFA Prompt](docs/images/mfa-prompt.png) <img width="2560" height="1355" alt="Authentik Gitea Screen" src="https://github.com/user-attachments/assets/1d4483e3-f0a7-4160-8775-f313224c670c" />
+<img width="2560" height="1355" alt="Authentik SSO Page" src="https://github.com/user-attachments/assets/262ca16b-52cb-4b29-97f7-b9cfa8bae3ea" />
+
+
+
 ## 🛠️ Stack
 
 | Component | Technology | Purpose |
